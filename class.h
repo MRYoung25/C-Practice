@@ -17,10 +17,3 @@ public:
     void Print();
     void Setname();
 };
-
-int main()
-{
-    Person a;
-    a.Print();
-    a.Setname();
-}
